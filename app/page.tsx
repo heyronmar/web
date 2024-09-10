@@ -13,7 +13,7 @@ export default function Home() {
           </span>
         </h1>
         <h1 className="text-5xl tracking-normal flex mb-2 font-light">
-          <span>Currently, working at <span className="text-gray-700">Woolworths</span>.
+          <span>Currently, working at <span className="text-gray-700 bg-green-200">Woolworths</span>.
           </span>
         </h1>
       </div>
