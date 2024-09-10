@@ -1,7 +1,10 @@
+
 import { badgeVariants } from "@/components/ui/badge";
 import Link from "next/link";
 
 const ShowcasePanel = () => {
+    
+
   return (
     <div className="container flex mx-auto p-6 bg-white border-gray-100 rounded-xl my-12">
         <div className="flex-1">
@@ -23,7 +26,7 @@ const ShowcasePanel = () => {
                     </div>
                     <div className="mt-2 mb-20">
                         <span className={badgeVariants({ variant: "outline" }) }>
-                            <span className="text-lg text-gray-600">2024</span>
+                            <span className="text-lg text-gray-600">2023-2024</span>
                         </span>
                     </div>
                 </div>
@@ -35,7 +38,7 @@ const ShowcasePanel = () => {
             </div>
         </div>
         <div className="flex-1">
-            column 2
+            
         </div>
       </div>
   )
