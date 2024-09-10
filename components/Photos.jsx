@@ -7,7 +7,7 @@ export function CasePhoto () {
     <div className="w-full h-full relative">
       <div className="w-auto xl:w-auto xl:h-auto">
         <Image 
-            src="/assets/medenterprises.webp"  
+            src="./assets/medenterprises.webp"  
             priority quality={100}
             fill
             alt="medenterprises"
@@ -24,7 +24,7 @@ export function CaseLogo () {
         <div className="w-full h-full relative">
         <div className="max-h-8 max-w-8">
           <Image 
-              src="/assets/medenterprises_logo.webp"  
+              src="./assets/medenterprises_logo.webp"  
               priority quality={100}
               fill
               alt="medenterprises"
