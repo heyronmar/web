@@ -1,5 +1,4 @@
 import ShowcasePanel from "@/components/Showcase";
-import Link from "next/link";
 
 export default function Home() {
   return (

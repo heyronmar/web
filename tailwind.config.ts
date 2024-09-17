@@ -14,10 +14,11 @@ const config: Config = {
 		padding: "2rem",
 	},
 	screens: {
-		sm: "640px",
+		xs: "373px",
+		sm: "468px",
 		md: "768px",
-		lg: "960px",
-		xl: "1000px",		
+		lg: "980px",
+		xl: "1136px",		
 	},
 	fontFamily:{
 		primary: "var(--font-DMSans)",

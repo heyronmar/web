@@ -1,6 +1,7 @@
 import type { Metadata } from "next";
 import { DM_Sans } from "next/font/google";
 import "./globals.css";
+import Footer from '@/components/Footer';
 
 //built components
 import Header from "@/components/Header";
@@ -22,7 +23,10 @@ export default function RootLayout({ children,
       <body className={dmSans.variable && "bg-slate-50 text-stone-800" } >
         <Header/>
         <PageTransition>{children}</PageTransition>
+        <Footer/>
       </body>
+      
+      
     </html>
   );
 }
