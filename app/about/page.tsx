@@ -10,7 +10,6 @@ const AboutPage = () => {
               <span className='text-zinc-700'>I’m a digital designer with a huge passion in human-computer interaction</span>. I have done a bit of everything from UX, mobile app & web design, design systems, research & testing, product strategy, product management, design and engineering. <span className='text-zinc-700'>My goal is to design solutions that brings <span className='underline decoration-blue-300'>delightful experience to users</span> & meet <span className='underline decoration-blue-300'>business requirements</span>.</span>
             </h1>
           </div>
-          {/* EDUCATION */}
           <div className='py-2'>
             { data.map((exp)=>{
                 SortedList();
