@@ -37,11 +37,6 @@ return (
                             <div className="tracking-normal leading-snug font-light text-xl">
                                 <p className="text-gray-600">{casestudy.caseDesc}<span className=" font-medium text-blue-600">{casestudy.caseRole}</span>{casestudy.caseValue}</p>
                             </div>
-                            {/* <div className="flex flex-row gap-2 pt-4 ">
-                               {casestudy.tags?.map((tag, tagindex)=>(
-                                <div key={tagindex} className="px-4 py-2 text-zinc-700 rounded-full bg-slate-100 text-sm first-letter:capitalize">{tag}</div>
-                               ))}
-                            </div> */}
                         </div>
                         <div className="pt-8">
                             <Link href={casestudy.linkHref} className="text-blue-600 text-l flex items-center gap-2" target="_blank">
