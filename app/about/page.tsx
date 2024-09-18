@@ -16,13 +16,12 @@ const AboutPage = () => {
                 SortedList();
                 return (
                   <div className='py-1'>
-                   
-                   <div key={exp.key} className={`flex xl:flex-row lg:flex-row flex-col text-md font-light object-left ${exp.title === "spacer" ? 'border-t border-b-zinc-200 my-6 max-h-1' : ''}`}>
-                      {exp.title == null || exp.title =="spacer" ? <div className='grow xl:w-2/12 w-full font-normal text-zinc-500 opacity-0 hidden xl:block lg:block'>{exp.title}</div> : <div className='grow xl:w-2/12 w-full font-normal text-zinc-500'>{exp.title}</div>}
-                      <div className='grow xl:w-2/12 w-full text-zinc-500'>{exp.year}</div>
-                      <div className='grow xl:w-2/12 w-full'>{exp.org}</div>
-                      <div className='grow xl:w-6/12 w-full xl:text-right lg:text-right'>{exp.role}</div>
-                    </div>
+                    <div key={exp.key} className={`flex xl:flex-row lg:flex-row flex-col text-md font-light object-left ${exp.title === "spacer" ? 'border-t border-b-zinc-200 my-6 max-h-1' : ''}`}>
+                        {exp.title == null || exp.title =="spacer" ? <div className='grow xl:w-2/12 w-full font-normal text-zinc-500 opacity-0 hidden xl:block lg:block'>{exp.title}</div> : <div className='grow xl:w-2/12 w-full font-normal text-zinc-500'>{exp.title}</div>}
+                        <div className='grow xl:w-2/12 w-full text-zinc-500'>{exp.year}</div>
+                        <div className='grow xl:w-2/12 w-full'>{exp.org}</div>
+                        <div className='grow xl:w-6/12 w-full xl:text-right lg:text-right'>{exp.role}</div>
+                      </div>
                   </div>
                 )
             })}
