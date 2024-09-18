@@ -8,7 +8,7 @@ const PlayPage = () => {
         <span>Hello, Im Ronmar.</span>
       </h1>
       <p className="text-5xl tracking-normal flex mb-2 font-light">
-        <span>I <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-400 via-50%  via-sky-600  to-teal-600 selection:text-cinder-400"> love exploring</span> visual patterns and technology. <br className='hidden xl:block'/><span>Outside work, I enjoy <span className="text-gray-700 bg-sky-200">food, music & outdoors</span>.
+        <span>Continuously <span className="bg-clip-text text-transparent bg-gradient-to-r from-red-400 via-50%  via-sky-600  to-teal-600 selection:text-cinder-400"> explore and discover</span> new ideas - <br className='hidden xl:block'/><span>I like DIYs, cooking and outdoors when not at work.
         </span>
         </span>
       </p>

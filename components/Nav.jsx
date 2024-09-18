@@ -14,13 +14,22 @@ const links = [
         path:"/play",
     },
     {
+        name:"writings",
+        path:"/writings",
+    },
+    {
+        name:"links",
+        path:"/links",
+    },
+    {
         name:"about",
         path:"/about",
     },
     {
-        name:"resume",
-        path:"/resume",
+        name:"Contact",
+        path:"/contact",
     },
+    
 
 ];
 
