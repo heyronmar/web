@@ -6,7 +6,7 @@ import Nav from "@/components/Nav"
 const Header = () => {
   return (
    <header className="py-5">
-        <div className="container mx-auto flex justify-between items-center">
+        <div className="container p-0 mx-auto flex justify-between items-center">
             
             {/* Logo here */}
 

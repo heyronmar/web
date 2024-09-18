@@ -27,7 +27,7 @@ return (
                                     />
                                 </div>
                                 <div className="relative first-letter:capitalize">
-                                    {casestudy.logoAlt}
+                                    {casestudy.logoAlt} {casestudy.caseDate ? <span className="text-zinc-400 font-light"> - {casestudy.caseDate}</span> : null}
                                 </div>
                             </div>
                             {/* COPY HERE */}
