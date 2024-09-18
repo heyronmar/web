@@ -1,6 +1,6 @@
 [
     {
-        "num": "01",
+        "num": "1",
         "logoSrc": "./assets/medenterprises_logo.webp",
         "logoAlt": "medworld",
         "caseDate": "2024",
@@ -15,7 +15,7 @@
         "linkHref": ""
     },
     {
-        "num": "02",
+        "num": "1",
         "logoSrc": "./assets/medenterprises_logo.webp",
         "logoAlt": "medworld",
         "caseDate": "2024",
@@ -29,7 +29,7 @@
         "linkHref": ""
     },
     {
-        "num": "03",
+        "num": "1",
         "logoSrc": "./assets/sam-logo.webp",
         "logoAlt": "Auxo Software",
         "caseDate": "2023",
@@ -43,7 +43,7 @@
         "linkHref": ""
     },
     {
-        "num": "04",
+        "num": "1",
         "logoSrc": "./assets/nimbus-logo.webp",
         "logoAlt": "Nimbus Portal Solutions",
         "caseDate": "2022-2023",
@@ -57,7 +57,7 @@
         "linkHref": ""
     },
     {
-        "num": "05",
+        "num": "1",
         "logoSrc": "./assets/gentrack-logo.webp",
         "logoAlt": "Gentrack Global",
         "caseDate": "2021",
@@ -68,6 +68,90 @@
         "coverImageSrc": "./assets/gentrack-global.webp",
         "coverImageAlt": "medworld mobile app",
         "linkText": "View Link",
+        "linkHref": ""
+    },
+    {
+        "num": "1",
+        "logoSrc": "./assets/vodafone-logo.webp",
+        "logoAlt": "Vodafone",
+        "caseDate": "2021",
+        "caseTitle": "Mobile Payment",
+        "caseDesc": "Vodafone NZ's latest mobile app revamp to serve their customers well. I joined the team as a ",
+        "caseRole": "UX Designer",
+        "caseValue": " and one of my project includes improving the payments/e-commerce experience.",
+        "coverImageSrc": "./assets/vodafone.webp",
+        "coverImageAlt": "Vodafone Mobile app",
+        "linkText": "View Link",
+        "linkHref": ""
+    },
+    {
+        "num": "2",
+        "logoSrc": "./assets/healthtap-logo.webp",
+        "logoAlt": "Healthtap",
+        "caseDate": "2024",
+        "caseTitle": "Virtual Clinicians",
+        "caseDesc": "Healthtap is a virtual consultation services for patients who are distant, busy on mornings or simply cannot attend day GPs. This is a ",
+        "caseRole": "collaboration with clinicians",
+        "caseValue": " in the attempt to ease the pain on long queues for patients that needs medical consultation urgently.",
+        "coverImageSrc": "./assets/healthtap.webp",
+        "coverImageAlt": "Healthtap",
+        "linkText": "Coming Soon",
+        "linkHref": ""
+    },
+    {
+        "num": "2",
+        "logoSrc": "./assets/discovernz-logo.webp",
+        "logoAlt": "New Zealand Tourism",
+        "caseDate": "2023",
+        "caseTitle": "Discover New Zealand",
+        "caseDesc": "Reinventing New Zealand Tourism Journey through digital experience and engagement. I design the app and ",
+        "caseRole": "presented to NZ Tourism board",
+        "caseValue": " and pitch to the board what's the CVP and how gamification and UX design can help the tourism sector.",
+        "coverImageSrc": "./assets/discovernz.webp",
+        "coverImageAlt": "Discover New Zealand",
+        "linkText": "View project",
+        "linkHref": ""
+    },
+    {
+        "num": "2",
+        "logoSrc": "./assets/bacardi-logo.webp",
+        "logoAlt": "Bacadri Experience",
+        "caseDate": "2020",
+        "caseTitle": "Better Billing Experience",
+        "caseDesc": "When I joined Media Design School, We work with projects with brands in DA&D. I make this product as a ",
+        "caseRole": "case study",
+        "caseValue": " and create a digital experience that brings people together as a social experiment.",
+        "coverImageSrc": "./assets/bacardi.webp",
+        "coverImageAlt": "Bacardi Experience",
+        "linkText": "View project",
+        "linkHref": ""
+    },
+    {
+        "num": "2",
+        "logoSrc": "./assets/mds-logo.webp",
+        "logoAlt": "CaterMe",
+        "caseDate": "2020",
+        "caseTitle": "Helping Hospitality",
+        "caseDesc": "Caterme is another brainchild to create a proposal to an industry profoundly impacted by Covid-19. I was exploring ",
+        "caseRole": "sharing economy",
+        "caseValue": " and created a platform for hospitality services and user's looking for it.",
+        "coverImageSrc": "./assets/caterme.webp",
+        "coverImageAlt": "caterme",
+        "linkText": "View project",
+        "linkHref": ""
+    },
+    {
+        "num": "2",
+        "logoSrc": "./assets/dribbble-logo.webp",
+        "logoAlt": "Dribbble Works",
+        "caseDate": "2012 - 2018",
+        "caseTitle": "Various Works",
+        "caseDesc": "Here's another channel where you can see some of my previous and legacy works. These are ",
+        "caseRole": "piece of branding, UX and UI",
+        "caseValue": " where I have done work with various clients across the globe.",
+        "coverImageSrc": "./assets/dribbble.webp",
+        "coverImageAlt": "dribbble",
+        "linkText": "Visit dribbble",
         "linkHref": ""
     }
 ]
