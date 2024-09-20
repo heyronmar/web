@@ -20,7 +20,7 @@ return (
                             <div className="flex flex-row items-center gap-2 pb-8">
                                 <div className="w-6 h-6 relative">
                                     <Image 
-                                        src={casestudy.logoSrc.slice(1)} 
+                                        src={casestudy.logoSrc} 
                                         priority
                                         layout="responsive"
                                         quality={100}
@@ -59,7 +59,7 @@ return (
                     <div className="w-full h-full relative min-h-96"> 
                         <div className="">
                             <Image 
-                                src={casestudy.coverImageSrc.slice(1)}
+                                src={casestudy.coverImageSrc}
                                 priority 
                                 quality={100}
                                 fill
