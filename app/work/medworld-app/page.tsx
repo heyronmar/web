@@ -30,7 +30,7 @@ export default function Medworld() {
 
                             <div className='relative w-full mb-8 rounded-lg overflow-clip'>
                                 <Image 
-                                    src={work.heroimgurl.slice(1)} 
+                                    src={work.heroimgurl} 
                                     priority 
                                     layout="responsive"
                                     quality={100}
@@ -68,7 +68,7 @@ export default function Medworld() {
                                 {work.screens.map((screen, index) => (
                                     <div key={index} className='relative w-full'>
                                         <Image 
-                                            src={screen.src.slice(1)} 
+                                            src={screen.src} 
                                             priority 
                                             layout="responsive"
                                             quality={100}
