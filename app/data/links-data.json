@@ -38,6 +38,54 @@
         "url":"https://wise.design/",
         "iconleft": false,
         "iconright": false,
-        "date": "date here"
+        "date": ""
+    },
+    {
+        "cat": 3,
+        "title": "Uber - Base Design System",
+        "url":"https://base.uber.com/",
+        "iconleft": false,
+        "iconright": false,
+        "date": ""
+    },
+    {
+        "cat": 3,
+        "title": "Shopify Polaris",
+        "url":"https://polaris.shopify.com/",
+        "iconleft": false,
+        "iconright": false,
+        "date": ""
+    },
+    {
+        "cat": 3,
+        "title": "Primer Design System",
+        "url":"https://primer.style/",
+        "iconleft": false,
+        "iconright": false,
+        "date": ""
+    },
+    {
+        "cat": 3,
+        "title": "Material Design",
+        "url":"https://m3.material.io/",
+        "iconleft": false,
+        "iconright": false,
+        "date": ""
+    },
+    {
+        "cat": 3,
+        "title": "Orbit from Kiwi.com",
+        "url":"https://www.kiwi.com/en/",
+        "iconleft": false,
+        "iconright": false,
+        "date": ""
+    },
+    {
+        "cat": 3,
+        "title": "Semrush Intergalactic",
+        "url":"https://developer.semrush.com/intergalactic/",
+        "iconleft": false,
+        "iconright": false,
+        "date": ""
     }
 ]
