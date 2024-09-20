@@ -8,7 +8,7 @@ const LinksPage = () => {
 
   return (
     <div className='container xl:p-0 my-16'>
-      <h1 className="text-3xl tracking-normal flex flex-col mb-16 font-extralight first-letter:capitalize">
+      <h1 className="text-3xl tracking-normal flex flex-col mb-16 font-extrali first-letter:capitalize">
           <span className='text-zinc-700'>Links</span>
       </h1>
 
