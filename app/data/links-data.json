@@ -1,0 +1,43 @@
+[
+    {
+        "cat": 1,
+        "title": "Motivation and Productivity habit",
+        "url":"https://medium.com/@heyronmar/motivation-and-productivity-habit-a-product-designers-routine-1bba0156890",
+        "iconleft": false,
+        "iconright": false,
+        "date": "Aug 13, 2023"
+    },
+    {
+        "cat": 1,
+        "title": "The value of design in consumer trust (revisited)",
+        "url":"https://medium.com/@heyronmar/design-aids-loyalty-in-web-d302badc2dfe",
+        "iconleft": false,
+        "iconright": false,
+        "date": "Jun 3, 2018"
+    },
+    {
+        "cat": 1,
+        "title": "The value of user-centred methods & feedback in visual design",
+        "url":"https://medium.com/@heyronmar/the-value-of-user-centred-methodology-and-feedback-in-visual-communication-29814cabce7",
+        "iconleft": false,
+        "iconright": false,
+        "date": "Mar 16, 2018"
+    },
+    {
+        "cat": 2,
+        "title": "Westpac New Zealand",
+        "url":"",
+        "iconleft": false,
+        "iconCard": "academiccap",
+        "iconright": false,
+        "date": "2024"
+    },
+    {
+        "cat": 3,
+        "title": "Wise Design System",
+        "url":"https://wise.design/",
+        "iconleft": false,
+        "iconright": false,
+        "date": "date here"
+    }
+]

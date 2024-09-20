@@ -2,7 +2,7 @@ import React from 'react'
 
 const WritingsPage = () => {
   return (
-    <div className='container p-0 my-16'>
+    <div className='container p-0 my-24'>
       Writings Page
     </div>
   )

@@ -1,0 +1,46 @@
+[
+    {
+        "post-id":1,
+        "slug":"medworld-app",
+        "heroimgurl":"./assets/blank-hero.webp",
+        "title": "Medworld mobile app",
+        "subtitle":"Timesaving solutions for doctors.",
+        "url":"https://www.google.com/",
+        "year":"2024",
+        "tags": ["product design", "mobile app", "2024"],
+        "context": "Employees inside the workshop who are using the product need to have better experience and services documentation, handling jobs, client reports, services, and administration. ",
+        "problem": "As part of AUXO’s initiative and one of the pillars of the Value Proposition – the company wants to automate the workshop management key workflows that are still in the legacy state. That said, we need to interview workshops and mechanics to further understand how they work and how they use the product. ",
+        "outcomes": "Build an enhanced experience that is simpler to understand by the administrators to perform their duly duties, motivate the mechanics, and create an interconnection between all information so that the line of work is visible to all members of the team. Create a better experience for the clients to have transparency on their services approval and updates.",
+        "screens": 
+        [
+            {
+                "src": "./assets/blank-hero.webp",
+                "caption": "The new workflow streamlines all decisions and puts them into one concept called a Dataset.",
+                "description": "Build an enhanced experience that is simpler to understand by the administrators to perform their duly duties, motivate the mechanics, and create an interconnection between all information so that the line of work is visible to all members of the team. Create a better experience for the clients to have transparency on their services approval and updates."
+            },
+            {
+                "src": "./assets/blank-hero.webp",
+                "caption": "Creating these data definitions simply required too many steps.",
+                "description":""
+            },
+            {
+                "src": "./assets/blank-hero.webp",
+                "caption": "Creating these data definitions simply required too many steps.",
+                "description":""
+            }
+        ],
+        "company": "Medworld",
+        "skills": [ "Product Design", 
+                    "UX Research", 
+                    "Interface Design",
+                    "Design Systems"
+                ],
+
+        "team": [ "Benjamin Baker",
+                    "Anna Gladushko",
+                    "Sam Wyness",
+                    "Rafael Lepkoski"
+                ]
+        
+    }
+]

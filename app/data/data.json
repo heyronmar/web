@@ -12,7 +12,7 @@
         "coverImageAlt": "medworld mobile app",
         "tags": ["product design","design system"],
         "linkText": "View Link",
-        "linkHref": ""
+        "linkHref": "/medworld-app"
     },
     {
         "num": "1",
@@ -52,6 +52,20 @@
         "caseRole": "Senior Product Designer",
         "caseValue": ", I was tasked to lead the design and innovation of the product and to connect the design to MYOB ecosystem.",
         "coverImageSrc": "./assets/nimbus-portal.webp",
+        "coverImageAlt": "medworld mobile app",
+        "linkText": "View Link",
+        "linkHref": ""
+    },
+    {
+        "num": "1",
+        "logoSrc": "./assets/myob-logo.webp",
+        "logoAlt": "MYOB",
+        "caseDate": "2022-2023",
+        "caseTitle": "MYOB Acumatica",
+        "caseDesc": "MYOB Advanced is an ERP Solutions that works with bigger businesses. As a ",
+        "caseRole": "Senior Product Designer",
+        "caseValue": ", I was tasked to make a better experience to Resource Planning and enabling Stripe payments in the business portal.",
+        "coverImageSrc": "./assets/myob-portal.webp",
         "coverImageAlt": "medworld mobile app",
         "linkText": "View Link",
         "linkHref": ""

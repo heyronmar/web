@@ -10,7 +10,7 @@ return (
     <div>
         {filteredData.map((casestudy, index) => {
             return (
-            <div key={index} className="container p-0 bg-white flex xl:flex-row lg:flex-row flex-col-reverse my-16 rounded-xl min-h-[500px] overflow-clip">
+            <div key={index} className="container p-0 bg-white flex xl:flex-row lg:flex-row flex-col-reverse xl:my-16 my-8 rounded-xl min-h-[500px] overflow-clip">
                 <div className="hidden">{casestudy.num}</div>
                 <div className="flex-1 p-12">
                     {/* CONTENT HERE */}
@@ -21,9 +21,11 @@ return (
                                 <div className="w-6 h-6 relative">
                                     <Image 
                                         src={casestudy.logoSrc} 
-                                        priority 
+                                        priority
+                                        layout="responsive"
                                         quality={100}
-                                        fill
+                                        width={100}
+                                        height={100}
                                         alt={casestudy.logoAlt}
                                         className="rounded-full overflow-hidden object-cover" 
                                     />
@@ -41,7 +43,7 @@ return (
                             </div>
                         </div>
                         <div className="pt-8">
-                            <Link href={casestudy.linkHref} className="text-blue-600 text-l flex items-center gap-2" target="_blank">
+                            <Link href={casestudy.linkHref} className="text-blue-600 text-l flex items-center gap-2">
                                 <div className="font-medium">{casestudy.linkText}</div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth={1.5} stroke="currentColor" className="size-6">

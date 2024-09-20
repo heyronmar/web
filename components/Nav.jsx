@@ -13,17 +13,17 @@ const links = [
         name:"play",
         path:"/play",
     },
-    {
-        name:"writings",
-        path:"/writings",
-    },
-    {
-        name:"links",
-        path:"/links",
-    },
+    // {
+    //     name:"writings",
+    //     path:"/writings",
+    // },
     {
         name:"about",
         path:"/about",
+    },
+    {
+        name:"Useful links",
+        path:"/links",
     },
     {
         name:"Contact",
@@ -40,7 +40,7 @@ const Nav = () => {
     //console.log(pathname);
 
   return (
-    <nav className="text-lg flex gap-8 capitalize font-normal">
+    <nav className="text-md flex gap-8 capitalize font-normal">
         {links.map((link, index)=>{
             return <Link href={link.path} key={index} className={`${link.path === pathname && "text-accent border-b-2 border-accent"}`}>
                 {link.name}

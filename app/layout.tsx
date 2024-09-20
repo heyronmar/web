@@ -22,11 +22,11 @@ export default function RootLayout({ children,
     <html lang="en" >
       <body className={dmSans.variable && "bg-slate-50 text-stone-800" } >
         <Header/>
-        <PageTransition>{children}</PageTransition>
+        <PageTransition>
+          {children}
+        </PageTransition>
         <Footer/>
       </body>
-      
-      
     </html>
   );
 }
