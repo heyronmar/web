@@ -10,7 +10,7 @@ return (
     <div>
         {filteredData.map((casestudy, index) => {
             return (
-            <div key={index} className="container p-0 bg-white flex xl:flex-row lg:flex-row flex-col-reverse xl:my-16 my-8 rounded-xl min-h-[500px] overflow-clip">
+            <div key={index} className="container p-0 bg-white flex xl:flex-row lg:flex-row flex-col-reverse xl:my-16 my-8 h-[500] rounded-xl  overflow-clip">
                 <div className="hidden">{casestudy.num}</div>
                 <div className="flex-1 p-12">
                     {/* CONTENT HERE */}
@@ -22,10 +22,8 @@ return (
                                     <Image 
                                         src={casestudy.logoSrc} 
                                         priority
-                                        layout="responsive"
                                         quality={100}
-                                        width={100}
-                                        height={100}
+                                        fill={true}
                                         alt={casestudy.logoAlt}
                                         className="rounded-full overflow-hidden object-cover" 
                                     />
@@ -62,9 +60,9 @@ return (
                                 src={casestudy.coverImageSrc}
                                 priority 
                                 quality={100}
-                                fill
+                                fill={true}
                                 alt={casestudy.coverImageAlt}
-                                className="object-cover object-left " 
+                                className="overflow-hidden object-cover" 
                                 />
                         </div>
                     </div>
