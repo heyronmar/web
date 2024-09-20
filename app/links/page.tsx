@@ -11,7 +11,7 @@ const LinksPage = () => {
       <h1 className="text-3xl tracking-normal flex flex-col mb-16 font-extrali first-letter:capitalize">
           <span className='text-zinc-700'>Links</span>
       </h1>
-
+      {/* { LINKS } */}
       <div className='my-8'>
         <div className='text-lg text-zinc-700 py-4'>Useful Resources</div>
         {dataLinks.map((dataLink, index)=>{
@@ -42,7 +42,7 @@ const LinksPage = () => {
                   </>
         })}
       </div>
-
+      {/* { WRITINGS } */}
       <div className='my-8 py-4 border-t border-zinc-200'>
         <div className='text-lg text-zinc-700 py-4'>Writings</div>
         {dataLinks.map((dataLink, index)=>{
@@ -72,7 +72,7 @@ const LinksPage = () => {
                   </>
         })}
       </div>
-
+      {/* { DISSECTIONS } */}
       <div className='my-8 py-4 border-t border-zinc-200'>
         <div className='text-lg text-zinc-700 py-4'>App Dissections</div>
         {dataLinks.map((dataLink, index)=>{
