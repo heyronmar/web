@@ -1,0 +1,38 @@
+[
+    {
+        "num": 1,
+        "title":"Linkedin",
+        "url":"https://google.com",
+        "icon": "FaLinkedin"
+    },
+    {
+        "num": 1,
+        "title":"Medium",
+        "url":"https://google.com",
+        "icon": "FaMedium"
+    },
+    {
+        "num": 1,
+        "title":"Github",
+        "url":"https://google.com",
+        "icon": "FaGithub"
+    },
+    {
+        "num": 1,
+        "title":"Pexels",
+        "url":"https://google.com",
+        "icon": "FaCameraRetro"
+    },
+    {
+        "num": 1,
+        "title":"ADP List",
+        "url":"https://google.com",
+        "icon": "FaGlobe"
+    },
+    {
+        "num": 1,
+        "title":"Email Address",
+        "url":"ronmarlacamiento@gmail.com",
+        "icon": "FaMailBulk"
+    }
+]

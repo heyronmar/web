@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import data from "@/app/data/data.json";
+import data from '@/app/data/data.json';
 
 export async function ShowcasePanel({ num }: { num: string }) {
     // Filter the data to only include items where num matches the passed prop
@@ -10,7 +10,7 @@ return (
     <div>
         {filteredData.map((casestudy, index) => {
             return (
-            <div key={index} className="container p-0 bg-white flex xl:flex-row lg:flex-row flex-col-reverse xl:my-16 my-8 h-[500] rounded-xl  overflow-clip">
+            <div key={index} className="container p-0 bg-white flex xl:flex-row lg:flex-row flex-col-reverse xl:my-16 my-8 rounded-xl  overflow-clip">
                 <div className="hidden">{casestudy.num}</div>
                 <div className="flex-1 p-12">
                     {/* CONTENT HERE */}
@@ -62,7 +62,7 @@ return (
                                 quality={100}
                                 fill={true}
                                 alt={casestudy.coverImageAlt}
-                                className="overflow-hidden object-cover" 
+                                className="overflow-hidden object-cover object-top" 
                                 />
                         </div>
                     </div>

@@ -9,6 +9,14 @@
     },
     {
         "cat": 1,
+        "title": "Speaking - Media Design School Alumni talk",
+        "url":"https://www.youtube.com/watch?v=z0CK7172RC0&list=PLHtYNLasNR4Yr1_OeG7o32i9aAzlYCfcD&index=9",
+        "iconleft": false,
+        "iconright": false,
+        "date": "Oct 1, 2021"
+    },
+    {
+        "cat": 1,
         "title": "The value of design in consumer trust (revisited)",
         "url":"https://medium.com/@heyronmar/design-aids-loyalty-in-web-d302badc2dfe",
         "iconleft": false,

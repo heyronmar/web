@@ -5,17 +5,17 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 
 export const metadata: Metadata = {
-    title: "Medworld Mobile",
+    title: "Auxo Software",
     description: "Workshop Management Software",
 };
 
-export default function Medworld() {
+export default function BacardiExperience() {
     return (
         <div className='container p-0 my-24 relative'>
             {data.map((work, index) => {
                 
                     return <div key = {index} className='text-md font-light'>
-                        {work.slug === "medworld-app" ? 
+                        {work.slug === "bacardi-experience" ? 
                             <>
                             <h1 className="text-3xl tracking-normal flex flex-col mb-16 font-light first-letter:capitalize">
                                 <span className='text-zinc-700'>{work.title}</span>

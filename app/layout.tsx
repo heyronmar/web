@@ -2,6 +2,9 @@ import type { Metadata } from "next";
 import { DM_Sans } from "next/font/google";
 import "./globals.css";
 import Footer from '@/components/Footer';
+import '@fortawesome/fontawesome-svg-core/styles.css'
+import { config } from '@fortawesome/fontawesome-svg-core';
+config.autoAddCss = false;
 
 //built components
 import Header from "@/components/Header";
