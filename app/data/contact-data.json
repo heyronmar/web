@@ -2,36 +2,36 @@
     {
         "num": 1,
         "title":"Linkedin",
-        "url":"https://google.com",
+        "url":"https://www.linkedin.com/in/ronmarlacamiento/",
         "icon": "FaLinkedin"
     },
     {
         "num": 1,
         "title":"Medium",
-        "url":"https://google.com",
+        "url":"https://medium.com/@heyronmar",
         "icon": "FaMedium"
     },
     {
         "num": 1,
         "title":"Github",
-        "url":"https://google.com",
+        "url":"https://github.com/heyronmar",
         "icon": "FaGithub"
     },
     {
         "num": 1,
         "title":"Pexels",
-        "url":"https://google.com",
+        "url":"https://www.pexels.com/@heyronmar/",
         "icon": "FaCameraRetro"
     },
     {
         "num": 1,
         "title":"ADP List",
-        "url":"https://google.com",
+        "url":"https://adplist.org/mentors/ronmar-lacamiento",
         "icon": "FaGlobe"
     },
     {
         "num": 1,
-        "title":"Email Address",
+        "title":"Email",
         "url":"ronmarlacamiento@gmail.com",
         "icon": "FaMailBulk"
     }
