@@ -2,10 +2,10 @@
 const nextConfig = {
     output: "export", // Enables static export for GitHub Pages
     images: {
-      unoptimized: true, // Disable image optimization for static exports
+      unoptimized: true, // Disable Next.js image optimization for static export
     },
-    basePath: '/web', // Set the base path to your GitHub repository name
-    assetPrefix: '/web/', // Prefix assets with the GitHub Pages path
+    basePath: '/web', // Your repository name
+    assetPrefix: '/web/', // Ensure assets are served from the correct path
   };
   
   export default nextConfig;
