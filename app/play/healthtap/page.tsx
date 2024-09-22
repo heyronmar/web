@@ -1,4 +1,4 @@
-import data from "@/app/data/case-data-sliced.json";
+import data from "@/app/data/case-data.json";
 import React from 'react';
 import Image from "next/image";
 import { Metadata } from 'next';

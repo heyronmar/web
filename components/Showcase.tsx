@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import data from "@/app/data/data-sliced.json";
+import data from "@/app/data/data.json";
 
 export async function ShowcasePanel({ num }: { num: string }) {
     // Filter the data to only include items where num matches the passed prop
@@ -21,7 +21,7 @@ return (
 
                                 <div className="w-6 h-6 relative">
                                     <Image 
-                                        src={casestudy.logoSrc} 
+                                        src={casestudy.logoSrc}
                                         priority
                                         width={0}
                                         height={0}
