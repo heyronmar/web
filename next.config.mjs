@@ -1,13 +1,12 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-
-    // output: "export", //app router configuration as it hooks in my github account
-    // unoptimized: true 
-
-    basePath: '/heyronmar', // Replace with your repo name
-    assetPrefix: '/heyronmar', // Optional but recommended
+    output: "export", // Enables static export for GitHub Pages
+    images: {
+        unoptimized: true, // Disables Next.js image optimization (required for static export)
+    },
     
+    basePath: '/heyronmar', // Replace with your GitHub repository name
+    assetPrefix: '/heyronmar/', // Ensure the asset prefix has a trailing slash
 };
 
 export default nextConfig;
-  
