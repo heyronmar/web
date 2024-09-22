@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import data from "@/app/data/data.json";
+import data from "@/app/data/data-sliced.json";
 
 export async function ShowcasePanel({ num }: { num: string }) {
     // Filter the data to only include items where num matches the passed prop
