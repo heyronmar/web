@@ -1,4 +1,4 @@
-import data from "@/app/data/case-data.json";
+import data from "@/app/data/case-data-sliced.json";
 import React from 'react';
 import Image from "next/image";
 import { Metadata } from 'next';
@@ -28,16 +28,17 @@ export default function BacardiExperience() {
                                 ))}
                             </div>
 
-                            <div className='relative w-full mb-8 rounded-lg overflow-clip'>
+                            <div className="relative w-full">
                                 <Image 
                                     src={work.heroimgurl} 
-                                    priority 
-                                    layout="responsive"
+                                    priority
+                                    width={0}
+                                    height={0}
+                                    sizes="100vw"
+                                    style={{ width: "100%", height: "auto" }}
                                     quality={100}
-                                    width={100}
-                                    height={100}
                                     alt={work.title}
-                                    className="object-scale-down" 
+                                    className="rounded-lg overflow-clip"
                                 />
                             </div>
                             
@@ -71,17 +72,20 @@ export default function BacardiExperience() {
                             
                             <div>
                                 {work.screens.map((screen, index) => (
-                                    <div key={index} className='relative w-full'>
-                                        <Image 
-                                            src={screen.src} 
-                                            priority 
-                                            layout="responsive"
-                                            quality={100}
-                                            width={100}
-                                            height={100}
-                                            alt={work.title}
-                                            className="object-contain rounded-lg" 
-                                        />
+                                    <div key={index} className='flex flex-col'>
+                                        <div className="relative w-full">
+                                            <Image 
+                                                src={screen.src} 
+                                                priority
+                                                width={0}
+                                                height={0}
+                                                sizes="100vw"
+                                                style={{ width: "100%", height: "auto" }}
+                                                quality={100}
+                                                alt={work.title}
+                                                className="rounded-lg overflow-clip"
+                                            />
+                                        </div>
                                         <div className='mx-auto text-center text-sm text-zinc-400 my-2 leading-tight'>
                                             {screen.caption}
                                         </div>

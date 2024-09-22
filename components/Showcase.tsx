@@ -1,6 +1,6 @@
 import Link from "next/link";
 import Image from "next/image";
-import data from '@/app/data/data.json';
+import data from '@/app/data/data-sliced.json';
 
 export async function ShowcasePanel({ num }: { num: string }) {
     // Filter the data to only include items where num matches the passed prop
@@ -18,14 +18,18 @@ return (
                         {/* BRAND HERE */}
                         <div className="grow h-full">
                             <div className="flex flex-row items-center gap-2 pb-8">
+
                                 <div className="w-6 h-6 relative">
                                     <Image 
                                         src={casestudy.logoSrc} 
                                         priority
+                                        width={0}
+                                        height={0}
+                                        sizes="100vw"
+                                        style={{ width: "100%", height: "auto" }}
                                         quality={100}
-                                        fill={true}
                                         alt={casestudy.logoAlt}
-                                        className="rounded-full overflow-hidden object-cover" 
+                                        className="rounded-full overflow-clip" 
                                     />
                                 </div>
                                 <div className="relative first-letter:capitalize">
@@ -58,9 +62,11 @@ return (
                         <div className="">
                             <Image 
                                 src={casestudy.coverImageSrc}
-                                priority 
+                                width={0}
+                                height={0}
+                                sizes="100vw"
+                                style={{ width: "100%", height: "auto" }}
                                 quality={100}
-                                fill={true}
                                 alt={casestudy.coverImageAlt}
                                 className="overflow-hidden object-cover object-top" 
                                 />
