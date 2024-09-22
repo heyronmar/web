@@ -2,7 +2,7 @@
     {
         "post-id":1,
         "slug":"medworld-app",
-        "heroimgurl":"./assets/medworld-mobile-app.webp",
+        "heroimgurl":"../assets/medworld-mobile-app.webp",
         "title": "Medworld mobile app",
         "subtitle":"Timesaving solutions for doctors.",
         "url":"https://www.medworld.com/mobile-app",
@@ -14,24 +14,24 @@
         "screens": 
         [
             {
-                "src": "./assets/medworld-mobile-one.webp",
+                "src": "../assets/medworld-mobile-one.webp",
                 "caption": "Enabling doctors to easily pull in their recent, incoming and past schedule work.",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac. Etiam ultricies, neque id rutrum scelerisque, lectus nisi commodo nulla, a tincidunt lectus neque a orci."
             },
             {
-                "src": "./assets/medworld-mobile-two.webp",
+                "src": "../assets/medworld-mobile-two.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. "
             },
             {
-                "src": "./assets/medworld-mobile-three.webp",
+                "src": "../assets/medworld-mobile-three.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
 
 
             },
             {
-                "src": "./assets/medworld-mobile-four.webp",
+                "src": "../assets/medworld-mobile-four.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             }
@@ -53,7 +53,7 @@
     {
         "post-id":1,
         "slug":"auxo-software",
-        "heroimgurl":"./assets/auxo-hero.webp",
+        "heroimgurl":"../assets/auxo-hero.webp",
         "title": "Auxo / Sam Cloud",
         "subtitle":"Workshop Management Software",
         "url":"https://auxosoftware.com/",
@@ -64,35 +64,35 @@
         "screens": 
         [
             {
-                "src": "./assets/auxo-one.webp",
+                "src": "../assets/auxo-one.webp",
                 "caption": "Workshop group attended for user research and contextual enquiry",
                 "description": "As the project is big, we need to identify what is the most important problem to solve that highly affects the day-to-day job of a company + focus on delivering the feature that is needed the most within the given timeframe. The first thing we do is to plot out the workflow and present it to the stakeholders."
             },
             {
-                "src": "./assets/auxo-two.webp",
+                "src": "../assets/auxo-two.webp",
                 "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
                 "description":"Once we finished our initial research an identified the feature to improve based on decisions coming from our product managers, then we can now start looking at all other feedback to identify what solution would best-suited from the problem space."
             },
             {
-                "src": "./assets/auxo-three.webp",
+                "src": "../assets/auxo-three.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"The new Workshop Management Software was well-received by investors and tested user groups. The design is evolving with a strategy to release features gradually, allowing for careful review and reducing risks. Mechanics added more notes, photos, and documentation during inspections, improving report integrity. Users also found service reports clearer due to the additional details provided by mechanics."
             },
             {
-                "src": "./assets/auxo-four.webp",
+                "src": "../assets/auxo-four.webp",
                 "caption": "Creating these data definitions simply required too many steps."
             },
             {
-                "src": "./assets/auxo-five.webp",
+                "src": "../assets/auxo-five.webp",
                 "caption": "Creating these data definitions simply required too many steps."
             },
             {
-                "src": "./assets/auxo-six.webp",
+                "src": "../assets/auxo-six.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"The new Workshop Management Software was well-received by investors and tested user groups. The design is evolving with a strategy to release features gradually, allowing for careful review and reducing risks. Mechanics added more notes, photos, and documentation during inspections, improving report integrity. Users also found service reports clearer due to the additional details provided by mechanics."
             },
             {
-                "src": "./assets/auxo-seven.webp",
+                "src": "../assets/auxo-seven.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"The new Workshop Management Software was well-received by investors and tested user groups. The design is evolving with a strategy to release features gradually, allowing for careful review and reducing risks. Mechanics added more notes, photos, and documentation during inspections, improving report integrity. Users also found service reports clearer due to the additional details provided by mechanics."
             }
@@ -114,7 +114,7 @@
     {
         "post-id":3,
         "slug":"bacardi-experience",
-        "heroimgurl":"./assets/bacardi-hero.webp",
+        "heroimgurl":"../assets/bacardi-hero.webp",
         "title": "Bacardi",
         "subtitle":"Never miss an experience with Bacardi Digital",
         "url":"https://www.bacardi.com/",
@@ -125,12 +125,12 @@
         "screens": 
         [
             {
-                "src": "./assets/bacardi-one.webp",
+                "src": "../assets/bacardi-one.webp",
                 "caption": "Workshop group attended for user research and contextual enquiry",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             },
             {
-                "src": "./assets/bacardi-two.webp",
+                "src": "../assets/bacardi-two.webp",
                 "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             }
@@ -149,7 +149,7 @@
     {
         "post-id":2,
         "slug":"caterme",
-        "heroimgurl":"./assets/caterme-hero.webp",
+        "heroimgurl":"../assets/caterme-hero.webp",
         "title": "Cater me",
         "subtitle":"A platform for Hospitality Services",
         "url":"#",
@@ -160,22 +160,22 @@
         "screens": 
         [
             {
-                "src": "./assets/caterme-one.webp",
+                "src": "../assets/caterme-one.webp",
                 "caption": "Workshop group attended for user research and contextual enquiry",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/caterme-two.webp",
+                "src": "../assets/caterme-two.webp",
                 "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/caterme-three.webp",
+                "src": "../assets/caterme-three.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/caterme-four.webp",
+                "src": "../assets/caterme-four.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             }
@@ -194,7 +194,7 @@
     {
         "post-id":3,
         "slug":"discover-nz",
-        "heroimgurl":"./assets/discover-nz-hero.webp",
+        "heroimgurl":"../assets/discover-nz-hero.webp",
         "title": "Discover New Zealand",
         "subtitle":"Digital product that aims to help the Tourism Industry",
         "url":"https://www.tourismnewzealand.com/",
@@ -205,22 +205,22 @@
         "screens": 
         [
             {
-                "src": "./assets/discover-nz-one.webp",
+                "src": "../assets/discover-nz-one.webp",
                 "caption": "Workshop group attended for user research and contextual enquiry",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/discover-nz-two.webp",
+                "src": "../assets/discover-nz-two.webp",
                 "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/discover-nz-three.webp",
+                "src": "../assets/discover-nz-three.webp",
                 "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/discover-nz-four.webp",
+                "src": "../assets/discover-nz-four.webp",
                 "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             }
@@ -240,7 +240,7 @@
     {
         "post-id":4,
         "slug":"gentrack-global",
-        "heroimgurl":"./assets/gentrack-hero.webp",
+        "heroimgurl":"../assets/gentrack-hero.webp",
         "title": "Gentrack",
         "subtitle":"Design System for Utility Management Software",
         "url":"https://gentrack.com/",
@@ -251,22 +251,22 @@
         "screens": 
         [
             {
-                "src": "./assets/gentrack-one.webp",
+                "src": "../assets/gentrack-one.webp",
                 "caption": "Workshop group attended for user research and contextual enquiry",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             },
             {
-                "src": "./assets/gentrack-two.webp",
+                "src": "../assets/gentrack-two.webp",
                 "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             },
             {
-                "src": "./assets/gentrack-three.webp",
+                "src": "../assets/gentrack-three.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             },
             {
-                "src": "./assets/gentrack-four.webp",
+                "src": "../assets/gentrack-four.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             }
@@ -291,7 +291,7 @@
     {
         "post-id":5,
         "slug":"healthtap",
-        "heroimgurl":"./assets/healthtap-hero.webp",
+        "heroimgurl":"../assets/healthtap-hero.webp",
         "title": "HealthTap",
         "subtitle":"Accessible healthcare, Anytime, Anywhere",
         "url":"https://auxosoftware.com/",
@@ -302,7 +302,7 @@
         "screens": 
         [
             {
-                "src": "./assets/healthtap-one.webp",
+                "src": "../assets/healthtap-one.webp",
                 "caption": "Workshop group attended for user research and contextual enquiry",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             }
@@ -321,7 +321,7 @@
     {
         "post-id":6,
         "slug":"myob-acumatica",
-        "heroimgurl":"./assets/myob-acumatica-hero.webp",
+        "heroimgurl":"../assets/myob-acumatica-hero.webp",
         "title": "MYOB Acumatica",
         "subtitle":"All-in-one Enterprise Resource Planning(ERP)",
         "url":"https://www.myob.com/nz/erp-software",
@@ -332,27 +332,27 @@
         "screens": 
         [
             {
-                "src": "./assets/myob-acumatica-one.webp",
+                "src": "../assets/myob-acumatica-one.webp",
                 "caption": "Workshop group attended for user research and contextual enquiry",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/myob-acumatica-two.webp",
+                "src": "../assets/myob-acumatica-two.webp",
                 "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/myob-acumatica-three.webp",
+                "src": "../assets/myob-acumatica-three.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/myob-acumatica-four.webp",
+                "src": "../assets/myob-acumatica-four.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/myob-acumatica-five.webp",
+                "src": "../assets/myob-acumatica-five.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             }
@@ -377,7 +377,7 @@
     {
         "post-id":7,
         "slug":"nimbus-portal",
-        "heroimgurl":"./assets/nimbus-portal-hero.webp",
+        "heroimgurl":"../assets/nimbus-portal-hero.webp",
         "title": "Nimbus Portal",
         "subtitle":"Secure client portal and unlimited digital signatures",
         "url":"https://www.nimbusportals.com/",
@@ -388,26 +388,26 @@
         "screens": 
         [
             {
-                "src": "./assets/nimbus-portal-one.webp",
+                "src": "../assets/nimbus-portal-one.webp",
                 "caption": "Workshop group attended for user research and contextual enquiry",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             },
             {
-                "src": "./assets/nimbus-portal-two.webp",
+                "src": "../assets/nimbus-portal-two.webp",
                 "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             },
             {
-                "src": "./assets/nimbus-portal-three.webp",
+                "src": "../assets/nimbus-portal-three.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             },
             {
-                "src": "./assets/nimbus-portal-four.webp",
+                "src": "../assets/nimbus-portal-four.webp",
                 "caption": "Creating these data definitions simply required too many steps."
             },
             {
-                "src": "./assets/nimbus-portal-five.webp",
+                "src": "../assets/nimbus-portal-five.webp",
                 "caption": "Creating these data definitions simply required too many steps.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             }
@@ -429,7 +429,7 @@
     {
         "post-id":8,
         "slug":"pulse-design-system",
-        "heroimgurl":"./assets/design-system-hero.webp",
+        "heroimgurl":"../assets/design-system-hero.webp",
         "title": "Pulse Design System",
         "subtitle":"Scalable Component Library",
         "url":"https://www.medworld.com/",
@@ -440,22 +440,22 @@
         "screens": 
         [
             {
-                "src": "./assets/design-system-one.webp",
+                "src": "../assets/design-system-one.webp",
                 "caption": "Primitives and semantic colour component",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/design-system-two.webp",
+                "src": "../assets/design-system-two.webp",
                 "caption": "icon and sample sizing for library",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/design-system-three.webp",
+                "src": "../assets/design-system-three.webp",
                 "caption": "typography primitives and semantics",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             },
             {
-                "src": "./assets/design-system-four.webp",
+                "src": "../assets/design-system-four.webp",
                 "caption": "Overall Project that I have completed",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
             }
@@ -478,7 +478,7 @@
     {
         "post-id":9,
         "slug":"vodafone-nz",
-        "heroimgurl":"./assets/vodafone-hero.webp",
+        "heroimgurl":"../assets/vodafone-hero.webp",
         "title": "Vodafone NZ",
         "subtitle":"Integrated payment using the mobile app",
         "url":"https://one.nz/",
@@ -489,22 +489,22 @@
         "screens": 
         [
             {
-                "src": "./assets/vodafone-one.webp",
+                "src": "../assets/vodafone-one.webp",
                 "caption": "usability testing team members spectating only in the studio workshop",
                 "description": "Part of the project brief is to look at various company workflows and do a field study to collect payment user flows from different applications to analyze what works well – and if so, would we be able to implement these in our products… It is essential to review and conduct an app dissection to check what is the common convention and design patterns that could potentially solve the problem."
             },
             {
-                "src": "./assets/vodafone-two.webp",
+                "src": "../assets/vodafone-two.webp",
                 "caption": "Initial design based on the field study, competitor analysis we have conducted.",
                 "description":"After creating the prototype and presented to the whole team to get a “tech check” we can then start doing the prototype we can all agreed to work with to bring to the usability testing. Having a “tech check” in the first couple of meetings gives you an understanding on what can/can’t be built within the constraint of the platform. That will give the whole team a level of confidence too, to make sure we can deliver or descope the features if needed. "
             },
             {
-                "src": "./assets/vodafone-three.webp",
+                "src": "../assets/vodafone-three.webp",
                 "caption": "Stakeholder presentation with a more detailed design from various case scenarios",
                 "description":"After a couple series of usability testing, there is already a good amount of hi-fidelity design to be presented and get reviewed by week 4. As part of agile team, the devs can now look at the shared prototype so we are building and finalising the workflow and checking out the nitty-gritty details of the product."
             },
             {
-                "src": "./assets/vodafone-four.webp",
+                "src": "../assets/vodafone-four.webp",
                 "caption": "Final product with workflow and design + integrate with Mural for developers",
                 "description":"The product improvement was released 1 week delayed as there are more technical issues needed to be polished before releasing the new feature. The release was well-received by people adding more engagement to the Vodafone app.Prior to the feature release, payment engagement in the app is just 36% of the monthly users. After the release of the feature, the payment engagement spike up to 55% with users storing their cards to the app and making payments through the Direct debit/Variable Credit Card function. "
             }
@@ -524,7 +524,7 @@
     {
         "post-id":9,
         "slug":"myob-erp",
-        "heroimgurl":"./assets/myob-erp-hero.webp",
+        "heroimgurl":"../assets/myob-erp-hero.webp",
         "title": "MYOB Acumatica",
         "subtitle":"All-in-one Enterprise Resource Planning (ERP)",
         "url":"https://one.nz/",
@@ -535,27 +535,27 @@
         "screens": 
         [
             {
-                "src": "./assets/myob-erp-one.webp",
+                "src": "../assets/myob-erp-one.webp",
                 "caption": "usability testing team members spectating only in the studio workshop",
                 "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             },
             {
-                "src": "./assets/myob-erp-two.webp",
+                "src": "../assets/myob-erp-two.webp",
                 "caption": "Initial design based on the field study, competitor analysis we have conducted.",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             },
             {
-                "src": "./assets/myob-erp-three.webp",
+                "src": "../assets/myob-erp-three.webp",
                 "caption": "Stakeholder presentation with a more detailed design from various case scenarios",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             },
             {
-                "src": "./assets/myob-erp-four.webp",
+                "src": "../assets/myob-erp-four.webp",
                 "caption": "Final product with workflow and design + integrate with Mural for developers",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             },
             {
-                "src": "./assets/myob-erp-five.webp",
+                "src": "../assets/myob-erp-five.webp",
                 "caption": "Final product with workflow and design + integrate with Mural for developers",
                 "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
             }
