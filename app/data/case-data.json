@@ -34,6 +34,16 @@
                 "src": "../assets/medworld-mobile-four.webp",
                 "caption": "Notifications, guidance, reports and assistance",
                 "description":"On our MVP launch, we make sure that the highlight of the product is our timesheet experience but we never forget to fill in the gaps of our product to make sure that it can also give assistance to the clinicians when they needed. Some features of the products might look low-value to design but it has a high-impact on the clinicians daily work - that includes timesheet information, support and guidance, nudges and alert on non-submitted timesheets, days remainings and completion information.\nThese are in its early stages but as you can see, the product gives benefit not only to the doctors but also for the business. The digital experience minimises the admin work for both clinicians and placement and payment specialist, giving a better automation for both business and users."
+            },
+            {
+                "src": "../assets/medworld-mobile-six.webp",
+                "caption": "Recognition awards in just 10 weeks in the business",
+                "description":"A personal email letter from our General Manager, Richard Clark recognising our work."
+            },
+            {
+                "src": "../assets/medworld-mobile-five.webp",
+                "caption": "Our contribution has been recognised by the company",
+                "description":"Within 10 weeks of working at Medworld, We have been nominated and gain a Recognition awards from how we transform design in the organisation."
             }
         ],
         "company": "Medworld",
