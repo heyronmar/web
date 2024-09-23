@@ -2,11 +2,12 @@ import Link from "next/link";
 
 //built components
 import Nav from "@/components/Nav"
+import MobileNav from "@/components/MobileNav";
 
 const Header = () => {
   return (
    <header className="py-5">
-        <div className="container p-0 mx-auto flex justify-between items-center">
+        <div className="container xl:p-0 mx-auto flex justify-between items-center">
             
             {/* Logo here */}
 
@@ -22,7 +23,7 @@ const Header = () => {
 
             {/* Mobile Nav */}
            <div className="xl:hidden">
-                Mobile Nav Here
+                <MobileNav />
            </div>
 
         </div>
