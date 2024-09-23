@@ -93,6 +93,7 @@ export default function BacardiExperience() {
                                         {screen.description ? <div className='my-16 w-10/12 mx-auto'>
                                             <p className='leading-snug text-xl font-light text-zinc-600 first-letter:capitalize'>
                                                 {screen.description}
+                                                
                                             </p> 
                                         </div> : <div className='my-16 w-10/12 mx-auto'></div>}
                                         

@@ -8,32 +8,32 @@
         "url":"https://www.medworld.com/mobile-app",
         "year":"2024",
         "tags": ["product design", "mobile app", "2024"],
-        "context": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac. Etiam ultricies, neque id rutrum scelerisque, lectus nisi commodo nulla, a tincidunt lectus neque a orci.",
-        "problem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac. Etiam ultricies, neque id rutrum scelerisque, lectus nisi commodo nulla, a tincidunt lectus neque a orci.",
-        "outcomes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac. Etiam ultricies, neque id rutrum scelerisque, lectus nisi commodo nulla, a tincidunt lectus neque a orci.",
+        "context": "Medworld is a company started by Dr Sam Hazeldine for healthcare industry to ease the burden of staffing, creating a system for doctors and hospitals to make recruitment easy. Medworld app is a pivotal technology in managing placements and clinician's data. We've launched the first version of the app to the market in June 2024 and it is still getting positive feedback that helps us continuously improving the digital product.",
+        "problem": "Medworld, as an initiative has brought up to life because of the current situation in the hospital industry, doctors are getting burn out, they wanted to get their time back for things you love outside of medicine, enhance your lifestyle, and reclaim your work-life balance. such enormous paperworks comes with placements, not to include the day-to-day timesheets and approvals the clinicians needs to attend to. Clinicians we interviewed just wanted to get paid and treat people, but with the burden of all things outside the normal patient-to-clinician work, they still have admin work that eats so much of their time.",
+        "outcomes": "The solution is to create an ecosystem for the clinicians to lessen the burden of these day-to-day challenge, Medworld ease the pain from recruitment, placement, timesheets, placement information and representation. The Medworld mobile app focuses on the daily task of doctors from being placed to being paid. We created an experience that uses digital technology to make sure that all these touchpoints will bring delight to our clinicians and change its situation positively.",
         "screens": 
         [
             {
                 "src": "../assets/medworld-mobile-one.webp",
-                "caption": "Enabling doctors to easily pull in their recent, incoming and past schedule work.",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac. Etiam ultricies, neque id rutrum scelerisque, lectus nisi commodo nulla, a tincidunt lectus neque a orci."
+                "caption": "Clinicians placement records, can be found easily on their mobile devices",
+                "description": "The idea is to use digital technology that we use everyday to facilitate all record keeping, schedules and to give vital information that is needed by the clinicians before they start their placements."
             },
             {
                 "src": "../assets/medworld-mobile-two.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. "
+                "caption": "Placement details and lodging time",
+                "description":"With these screens, the solution is to adapt the current experience in the general hospital settings before making big steps in providing solution. My design adhere to progressive design approach and to give only enough information for the clinician to interact in every screen"
             },
             {
                 "src": "../assets/medworld-mobile-three.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Submitting timesheets as a disruptor",
+                "description":"One of the significant factor with my design is creating a better timesheet submission experience, as the clinician works, the records are kept properly in the device and when its time for them to submit the timesheet, they have few options to do it."
 
 
             },
             {
                 "src": "../assets/medworld-mobile-four.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Notifications, guidance, reports and assistance",
+                "description":"On our MVP launch, we make sure that the highlight of the product is our timesheet experience but we never forget to fill in the gaps of our product to make sure that it can also give assistance to the clinicians when they needed. Some features of the products might look low-value to design but it has a high-impact on the clinicians daily work - that includes timesheet information, support and guidance, nudges and alert on non-submitted timesheets, days remainings and completion information.\nThese are in its early stages but as you can see, the product gives benefit not only to the doctors but also for the business. The digital experience minimises the admin work for both clinicians and placement and payment specialist, giving a better automation for both business and users."
             }
         ],
         "company": "Medworld",
@@ -88,8 +88,7 @@
             },
             {
                 "src": "../assets/auxo-six.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"The new Workshop Management Software was well-received by investors and tested user groups. The design is evolving with a strategy to release features gradually, allowing for careful review and reducing risks. Mechanics added more notes, photos, and documentation during inspections, improving report integrity. Users also found service reports clearer due to the additional details provided by mechanics."
+                "caption": "Creating these data definitions simply required too many steps."
             },
             {
                 "src": "../assets/auxo-seven.webp",
@@ -118,21 +117,21 @@
         "title": "Bacardi",
         "subtitle":"Never miss an experience with Bacardi Digital",
         "url":"https://www.bacardi.com/",
-        "year":"2022",
-        "tags": ["product design", "mobile app", "2024"],
-        "problem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac.",
-        "outcomes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac.",
+        "year":"2020",
+        "tags": ["UX/UI design", "mobile app", "2020"],
+        "problem": "Summer’s a time of freedom and self-expression. We all experience it, in our own way. How can you may the Bacardi synonymous with the best moments of summer? The objective is to create a physical or digital activation or experience that will bring people together, where people feel free to be themselves, puts the power of music, dance and art to work.",
+        "outcomes": "The design is well-received in the whole demo and presentation and although it is not continued to the development phase, it is a good learning curve for me to practice my interaction design skills and to create an end-to-end product idea that could be pitched to companies. ",
         "screens": 
         [
             {
                 "src": "../assets/bacardi-one.webp",
-                "caption": "Workshop group attended for user research and contextual enquiry",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Prototypes and UI design tested in the study",
+                "description": "Hi-fidelity prototypes with interaction presented to D&AD and the concepts of the product virality including a proposed SWOT of the promotion and the technology limitation."
             },
             {
                 "src": "../assets/bacardi-two.webp",
-                "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Prototypes and UI design tested in the study",
+                "description":"This also hones my skills as a UX designer giving a good practice of UX design process. Feedback is also an essential part of the design as my peer designers give feedback and brought influence into the final design."
             }
         ],
         "company": "Bacardi",
@@ -153,31 +152,28 @@
         "title": "Cater me",
         "subtitle":"A platform for Hospitality Services",
         "url":"#",
-        "year":"2022",
-        "tags": ["product design", "mobile app", "2024"],
-        "problem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis.",
-        "outcomes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis.",
+        "year":"2019",
+        "tags": ["UX design", "Design Research","Product strategy",  "2019"],
+        "context": "Food is not just about eating, It is an experience and the joy it brings to every celebration. CaterMe aims to solve the problem of the hospitality industry. The goal is to become a platform that meets costumers and suppliers together to match the suited service based on what they need. ",
+        "outcomes": "I have presented to Media Design School panel the idea of sharing economy and how it could help the challenges that is being faced by the hospitality industry in New Zealand. With my months working in this case study, I have interviewed numerous business owners that has been affected by COVID-19 and start to curate a design solution that will potentially help them by adapting digital experiences.",
         "screens": 
         [
             {
                 "src": "../assets/caterme-one.webp",
-                "caption": "Workshop group attended for user research and contextual enquiry",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "Caterme as a platform for seeker and provider in sharing economy",
+                "description": "The sharing economy is a system where individuals or organizations share access to goods, services, or resources, often through digital platforms. Instead of owning assets like cars, homes, or tools, people can rent or borrow them from others, creating a more collaborative and efficient way to use resources. This model promotes sustainability, cost savings, and community connections while benefiting both providers and users."
             },
             {
                 "src": "../assets/caterme-two.webp",
-                "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "Website design and platform UI"
             },
             {
                 "src": "../assets/caterme-three.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "Geo-location and mapping of the services based on their location"
             },
             {
                 "src": "../assets/caterme-four.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "Cater me - A platform for hospitality services."
             }
         ],
         "company": "None",
@@ -198,31 +194,32 @@
         "title": "Discover New Zealand",
         "subtitle":"Digital product that aims to help the Tourism Industry",
         "url":"https://www.tourismnewzealand.com/",
-        "year":"2022",
-        "tags": ["product design", "mobile app", "2024"],
-        "problem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis.",
-        "outcomes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis.",
+        "year":"2023",
+        "tags": ["product design", "mobile app", "2023"],
+        "context": "Discover New Zealand is a digital platform designed to revitalize Aotearoa's tourism industry by connecting international tourists, local travelers, and visitors with the rich offerings of the country. The platform aims to boost local tourism by providing easy access to events, cultural experiences, stunning landscapes, and local businesses. With a user-friendly mobile interface, it brings the essence of Aotearoa to the palm of your hand, encouraging exploration and engagement across communities and sectors.",
+        "problem": "Catastrophic events, COVID-19, incoming recessions, hospitality and health problems, layoffs and other recent events does hurt the economic state of Aotearoa. It does hurt to see businesses closing because of these matters and primarily the tourism sector, one of the biggest contributor of our GDP here in New Zealand.",
+        "outcomes": "Although rejected, I have acquired massive experience in working with private/public sector and this shows my business acumen when it comes to building solutions, not only it provides recommendation, but I also get to understand the challenges and painpoints of the industry and where my solution fits.",
         "screens": 
         [
             {
                 "src": "../assets/discover-nz-one.webp",
-                "caption": "Workshop group attended for user research and contextual enquiry",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "Applicability to New Zealand-Aotearoa visitor Journey",
+                "description": "The aim of our project is to an open application globally - “Available everywhere to download”. Meaning to say, Within the pre-arrival stage, users can already have the application on their phone, they already see various events in places they wanted to visit and because the application is able to “save” and “like” the places, then it will save to users profile."
             },
             {
                 "src": "../assets/discover-nz-two.webp",
-                "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "A collection of the proposed solution and usage.",
+                "description":"The proposed design is aims to provide a knowledge based information to NOT ONLY tourist coming in to New Zealand, but local travellers who wanted to discover Aotearoa. Imagine an application that brings together all things to see, places to go and experience in New Zealand culture by immersing themselves in the digital product and gaining badges while guiding and posting tourist attractions, places and areas that might not been seen before."
             },
             {
                 "src": "../assets/discover-nz-three.webp",
-                "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "Design deliverables and prototypes.",
+                "description":"Here are screens that showcasing all our events nationally in a global scale, this is the area where they discover experience, culture, sceneries, areas of New Zealand we wanted to really boost on. "
             },
             {
                 "src": "../assets/discover-nz-four.webp",
                 "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "description":"users can discover places within New Zealand, anything locally that has various categories including gardens, marae, historical places, pubs, bars, restaurants, experiences and even their any regional council. Most products in the market does not have a native translation which makes it harder for users specially this listed translations are people who visited New Zealand a lot."
             }
         ],
         "company": "NZ Tourism",
@@ -245,30 +242,30 @@
         "subtitle":"Design System for Utility Management Software",
         "url":"https://gentrack.com/",
         "year":"2021",
-        "tags": ["product design", "mobile app", "2024"],
-        "problem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac.",
-        "outcomes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac.",
+        "tags": ["Field Research", "UX/UI Design","Design Systems", "2021"],
+        "context": "Gentrack aims to improve its utility management platform, and we're tasked with creating prototypes for client demos, testing and iterating the solution. We also conducted field research with New Zealand power companies to gain deeper insights into how the system is used in real-world operations, ensuring the platform aligns with their needs.",
+        "outcomes": "I curated a design system library to optimize our team's workflow and create better design solutions for our stakeholders. The system includes tested and validated components that shape both product design and development. Our team conducted field research across multiple power companies, focusing on operations and customer service departments, to gain insights on improving the user experience and enhancing the clarity of data presented in the application.",
         "screens": 
         [
             {
                 "src": "../assets/gentrack-one.webp",
-                "caption": "Workshop group attended for user research and contextual enquiry",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "a working design systems library",
+                "description": "As I already have experience working with design systems, one thing that I saw as a challenge is the consistency of work between one designer to the other, a quick solution for me to look at is to create the primitive and the semantics of the library and scale it along the way. As it is a fast-pace environment and projects are coming all over the place, it is better to mitigate these inconsitencies before it become a burden on the delivery space."
             },
             {
                 "src": "../assets/gentrack-two.webp",
-                "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Sample screen of components build.",
+                "description":"Within the next 3 months, I have been curating design components that the whole team is needed, that has accumulated to about 64+ design components that the design team has been using since."
             },
             {
                 "src": "../assets/gentrack-three.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Design solution for usability testing and research",
+                "description":"In between my development of the design system, we are put through numerous feature build that needs risk mitigation and usability testing. This is to assure that all our design solution has a good experience standards and to make sure that the product is going to be scalable."
             },
             {
                 "src": "../assets/gentrack-four.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Working with graphs and data",
+                "description":"Given that these solutions are used by large utility management companies for both operations and reporting, we ensure a tiered user model is referenced in the design process. In this example, we tested a design for customer support, featuring a visual model of customer configuration and a graphical interface with seamless information flow. As this is a complex B2B product, incorporating technical knowledge is crucial to its success. My process involves presenting and validating the existing user journey, then identifying problems and opportunities. This approach fosters collaboration with the delivery team by addressing technical limitations before implementing design changes."
             }
         ],
         "company": "Gentrack Global",
@@ -294,17 +291,16 @@
         "heroimgurl":"../assets/healthtap-hero.webp",
         "title": "HealthTap",
         "subtitle":"Accessible healthcare, Anytime, Anywhere",
-        "url":"https://auxosoftware.com/",
-        "year":"2022",
+        "url":"#",
+        "year":"2024",
         "tags": ["product design", "mobile app", "2024"],
-        "problem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis.",
-        "outcomes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis.",
+        "problem": "This case study explores the implementation of an out-of-hours virtual clinician service in New Zealand, aimed at addressing the gap in after-hours healthcare access. The service enables patients to connect with qualified clinicians via a digital platform outside of regular business hours, providing timely consultations for non-emergency medical concerns.",
         "screens": 
         [
             {
                 "src": "../assets/healthtap-one.webp",
-                "caption": "Workshop group attended for user research and contextual enquiry",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "A design Work in Progress",
+                "description": "By leveraging telehealth technology, the platform ensures that individuals in rural and urban areas alike receive quality care without needing to visit a clinic in person. The case study highlights the services impact on reducing wait times, increasing accessibility, and improving patient satisfaction across the country."
             }
         ],
         "company": "Healthtap",
@@ -326,35 +322,35 @@
         "subtitle":"All-in-one Enterprise Resource Planning(ERP)",
         "url":"https://www.myob.com/nz/erp-software",
         "year":"2022",
-        "tags": ["product design", "Web/mobile design", "2024"],
-        "problem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis.",
-        "outcomes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis.",
+        "tags": ["Product Design", "Service Design", "UX/UI Design", "2024"],
+        "context": "MYOB is expanding its ERP billing system and part of the job is to create a design solution that integrates with modern payment system, Stripe. Since I have an extensive knowledge with Stripe, I was pulled as a part of the team to curate a design solution, test and validate to mitigate risks before the development",
+        "problem": "Despite the scale of MYOB ERP systems, we continue to receive feature requests, such as integrating additional payment providers outside our current stack. Before embarking on this major project, our delivery team ensures that each enhancement provides real value to our users.",
+        "outcomes": "Before launching the product feature, I designed a comprehensive service blueprint outlining the end-to-end scope of the project. I wrote user stories for each phase and integrated them into our ticket backlog. The process began with a workshop to gather requirements from both partner and technology perspectives, merging these insights into a unified artefact. Additionally, I conducted usability testing at each phase to mitigate risks and ensure alignment with the blueprint.",
         "screens": 
         [
             {
                 "src": "../assets/myob-acumatica-one.webp",
-                "caption": "Workshop group attended for user research and contextual enquiry",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "Delivery team and Product trio conducting a kickoff meeting",
+                "description": "In all design process I do, I always start with the contexts(business and technology context) this is to ensure that in every steps of design, we know what are the technical limitations and the business requirements to make sure that we understand how much design work is needed on each steps"
             },
             {
                 "src": "../assets/myob-acumatica-two.webp",
-                "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "Creating a phase-per-phase design journey",
+                "description":"In a complex system like MYOB ERP, One of the main technique I used to build a good design solution is to plot the existing journey and get each touchpoints where the UX improvement in each phases will take place."
             },
             {
                 "src": "../assets/myob-acumatica-three.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "Create a journey-based-task for usability testing",
+                "description":"This is where I re-implement my process. As shown above, I always structure my work to be usability testing-ready, optimizing it for my workflow. This approach allows me to collaborate effectively with UX researchers, giving them a clear understanding of the solution's journey before testing begins."
             },
             {
                 "src": "../assets/myob-acumatica-four.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "Other part of the features of the product showing Stripe Integration"
             },
             {
                 "src": "../assets/myob-acumatica-five.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "caption": "End-to-end Service Blueprint design",
+                "description":"The most significant aspect of my work extends beyond design and testing—it's about curating a comprehensive service blueprint for the existing system and embedding the solution. This blueprint maps out every step from delivery to design and development, becoming a key asset for the entire delivery team. It has fostered better collaboration and created a more positive working environment throughout the process."
             }
         ],
         "company": "MYOB",
@@ -381,35 +377,36 @@
         "title": "Nimbus Portal",
         "subtitle":"Secure client portal and unlimited digital signatures",
         "url":"https://www.nimbusportals.com/",
-        "year":"2022",
-        "tags": ["product design", "mobile app", "2024"],
-        "problem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis.",
-        "outcomes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis.",
+        "year":"2022 - 2023",
+        "tags": ["Product design", "design system", "UX/UI Design","2024"],
+        "context": "As a newly acquired product of MYOB, I was tasked to fly up to Brisbane from New Zealand to lead the product design strategy of Nimbus Portal, met with the owner, head of product and the existing team to curate a strategic plan to merge the product to MYOB ecosystem by improving the design and experience of the current system while maintaining the legacy product and its offers. This was one of my biggest achievement working at MYOB while working with 3 other products.",
+        "problem": "With over 500k daily active users, Nimbus remains popular, but its legacy design no longer aligns with modern technology and UX standards. Despite its strong market position, the product risks losing relevance without a design-led approach. To preserve its competitive edge and avoid a 'Kodak moment,' Nimbus must focus on delivering an improved, user-centered experience.",
+        "outcomes": "We developed a modern design, rigorously tested the product's usability before launch, and crafted an innovative experience while preserving its dynamic features. Additionally, we mitigated risks and established a future-ready pricing model. The design process also uncovered opportunities and challenges, guiding pivotal decisions for the MVP.",
         "screens": 
         [
             {
                 "src": "../assets/nimbus-portal-one.webp",
-                "caption": "Workshop group attended for user research and contextual enquiry",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Usability testing in numerous iteration and design to validate design solutions",
+                "description": "As part of my design strategy, I regularly use card sorting to validate solutions and gain insights into users' Jobs to Be Done (JTBD). Understanding what users need to accomplish on each screen provides valuable leads on how they interact with the product, enabling more informed design decisions."
             },
             {
                 "src": "../assets/nimbus-portal-two.webp",
-                "caption": "Conducting workshop together with Another UX Designer to identify what the priority feature to improve.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Screen designs and patterns showing number of features I am working with",
+                "description":"Nimbus is a SaaS product and to make sure there's a clarity on each features, I keep on a library that show's each milestone that have finished, validated and ready for development, this keeps us align with the delivery team."
             },
             {
                 "src": "../assets/nimbus-portal-three.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Nimbus simple filter system, folder and file discovery",
+                "description":"I drew inspiration from cloud management services like Dropbox and Google, referencing their designs and features to shape the product using familiar web and interaction conventions. Rather than reinventing the wheel, my approach focused on leveraging common patterns that users already understand, ensuring seamless navigation through familiarity."
             },
             {
                 "src": "../assets/nimbus-portal-four.webp",
-                "caption": "Creating these data definitions simply required too many steps."
+                "caption": "One of the Usability testing report presented to the ELT"
             },
             {
                 "src": "../assets/nimbus-portal-five.webp",
-                "caption": "Creating these data definitions simply required too many steps.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Usability testing showing my process and task completion rate per each phases",
+                "description":"As part of this major initiative, I regularly present design validation and usability reports to ensure management that each feature I design adds value to the product. By demonstrating how each phase of feature-based tasks has been thoroughly vetted, I provide certainty in the solution before it moves into the delivery phase."
             }
         ],
         "company": "Nimbus Portal",
@@ -434,30 +431,30 @@
         "subtitle":"Scalable Component Library",
         "url":"https://www.medworld.com/",
         "year":"2022",
-        "tags": ["product design", "mobile app", "2024"],
-        "problem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac. Etiam ultricies, neque id rutrum scelerisque, lectus nisi commodo nulla, a tincidunt lectus neque a orci.",
-        "outcomes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis.",
+        "tags": ["product design", "design system", "2024"],
+        "context": "I was tasked with building a design system library to unify all digital touchpoints at Medenterprises. When I stepped in as Product Lead, no design system existed, creating challenges not only for designers but for the entire delivery team. Drawing on my experience from previous roles, I developed a design system that not only ensured consistency across the product but also streamlined the delivery process, significantly improving efficiency and collaboration.",
+        "outcomes": "Curated a modern design system that follows best practices, beginning with Primitives and core elements, and extending to semantic and semantic-based components. The system includes a comprehensive color scheme, typography, spacing, grid, rulers, and responsive guidelines for screen sizes, providing clarity on component functionality. While offering structure, the system also encourages designers to explore new ideas, supporting creativity and scalability as the design system evolves.",
         "screens": 
         [
             {
                 "src": "../assets/design-system-one.webp",
                 "caption": "Primitives and semantic colour component",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "description": "As everything here shows results, all of these happens by starting a product design kickoff involving engineers. We started at aligning design-developers insights and understanding on our nomenclatures, words we use and how we want to call each primitives that aligns with our principles"
             },
             {
                 "src": "../assets/design-system-two.webp",
                 "caption": "icon and sample sizing for library",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "description":"As we progress, we curated iconographies and scaling of each usage making sure that design adhere to how it will be develop within our platform too. this gives not only a good alignment but better collaboration within the product and delivery team."
             },
             {
                 "src": "../assets/design-system-three.webp",
                 "caption": "typography primitives and semantics",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "description":"Typography had gone through numerous workshops as well to make sure that we know what typeset and variants are we using."
             },
             {
                 "src": "../assets/design-system-four.webp",
                 "caption": "Overall Project that I have completed",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis."
+                "description":"At the end of the project, what I achieve is really a valuable asset to the design and delivery team. I even expanded this design to make a clean brand and identity documentation, usage of logos, polishing the identity system and created a scalable design system that can stand the test of time. Design system is a living and breathing work - it should be treated as a separate product that works as a pillar on product delivery. The next piece of work after this is to align the library of the web component using semantics from our core components to scale."
             }
         ],
         "company": "Medenterprises",
@@ -527,37 +524,38 @@
         "heroimgurl":"../assets/myob-erp-hero.webp",
         "title": "MYOB Acumatica",
         "subtitle":"All-in-one Enterprise Resource Planning (ERP)",
-        "url":"https://one.nz/",
-        "year":"2021",
-        "tags": ["UI Design", "mobile app", "2021"],
-        "problem": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac.",
-        "outcomes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac.",
+        "url":"https://www.myob.com/nz/erp-software",
+        "year":"2022 - 2023",
+        "tags": ["Service Design", "Product design","Risk Mitigation", "2023"],
+        "context": "This product feature has been on the radar of the ERP team since 2021, When I stepped in - I work together with the team to mitigate this high value proposition, investigate and tests numerous times to make sure that it creates high value feature to the product. The product feature aims to solve problems with business that has 800+ employees in professional services industry and to give a better deployment of resources. This feature will benefit from Executive level, Country Managers, Team Managers and Team members - This is a massive end-to-end product delivery that takes an MVP to complete.",
+        "problem": "There are requests from numerous big profile business clients to include capacity and resource planning to make sure that we are supporting the users in bigger and wider organisations. That said, the team has lacking a designer who can mold the solution for them whilst I was tasked to work with the delivery team to make it happen.",
+        "outcomes": "First phase of the Resource and capacity planning was launch at Mid 2022, the solution has been a reference to all my designs and we have regressed the solution to a viable product features, alongside with that, I kept on iterating and mitigating the solution to make sure it adheres to the users needs and business requirements. The solution saved about 900K/year in resource which makes it good for our existing business users.",
         "screens": 
         [
             {
                 "src": "../assets/myob-erp-one.webp",
-                "caption": "usability testing team members spectating only in the studio workshop",
-                "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "MIRO workshop with the internal team and solution strategy",
+                "description": "Within my first 4 weeks, I took initiative by conducting a solution design strategy to gain an overall view of the JIRA backlog, identifying opportunities and challenges within the product feature. This approach, shown in the image, highlights how I collaborate with product managers to de-risk features and prioritize solutions while aligning with our deadlines."
             },
             {
                 "src": "../assets/myob-erp-two.webp",
-                "caption": "Initial design based on the field study, competitor analysis we have conducted.",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Showcasing the Product Solution with the wider Audience",
+                "description":"As part of my work, I create mockups and prototypes to demonstrate how the solution fits within the current product space and identify potential technical requirements. I also present recommendations based on insights from previous usability testing to ensure the solution is aligned with user needs."
             },
             {
                 "src": "../assets/myob-erp-three.webp",
-                "caption": "Stakeholder presentation with a more detailed design from various case scenarios",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Screens from the body of work from Capacity and Resource planning",
+                "description":"These screens showcase the design solution, integrating features that require deep technical knowledge of the product. Given that we are working with a major professional services provider, it is crucial that everything functions seamlessly and that the product's usability is optimized to the highest standards."
             },
             {
                 "src": "../assets/myob-erp-four.webp",
-                "caption": "Final product with workflow and design + integrate with Mural for developers",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "A screen showing the multi-split allocation of resources",
+                "description":"This feature, a key highlight of the first release, is being scaled due to its complexity. It is currently under development for phase two, as it offers a significantly improved experience in resource and capacity allocation. Usability testing has shown it to be easily adopted by users, reinforcing its value."
             },
             {
                 "src": "../assets/myob-erp-five.webp",
-                "caption": "Final product with workflow and design + integrate with Mural for developers",
-                "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas et ante in enim rhoncus commodo at vulputate dui. Nunc imperdiet purus dapibus hendrerit convallis. Donec ut est vitae lectus ullamcorper porttitor vel ut felis. Morbi pretium ultrices enim, ut fringilla dolor dictum ac."
+                "caption": "Resource planning usability report - from current experience to new",
+                "description":"The screen capture above illustrates a dynamic shift in usability and experience after testing the design solution. You can see how user sentiment changed significantly following the usability testing of the solution I created. This demonstrates that when testing, iteration, and validation are done effectively and on time, they provide valuable insights that shape better product solutions."
             }
         ],
         "company": "MYOB",
