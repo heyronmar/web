@@ -18,10 +18,18 @@
     {
         "key": 1,
         "title": "",
+        "year": "2019 - 2020",
+        "org": "Media Design School",
+        "link": "",
+        "role": "PGDip in Design"
+    },
+    {
+        "key": 1,
+        "title": "",
         "year": "2016 - 2017",
         "org": "General Assembly",
         "link": "",
-        "role": "Immersive UX"
+        "role": "UX Design"
     },
     {
         "key": 1,
@@ -29,7 +37,7 @@
         "year": "2006 - 2010",
         "org": "Bulacan State University",
         "link": "",
-        "role": "B.S. Information Technology"
+        "role": "BS Infomation Communication Technology"
     },
     {
         "key": 2,
