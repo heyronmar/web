@@ -14,7 +14,7 @@ const AboutPage = () => {
             <h1 className='text-3xl font-extralight text-zinc-600 leading-snug tracking-wide pb-6'>
               <span className='text-zinc-700'>I’m a digital designer with a huge passion for human-computer interaction</span>. I have an extensive experience in <span className='underline decoration-blue-300 '>UX</span>, <span className='underline decoration-blue-300 '>mobile app & web design</span>, <span className='underline decoration-blue-300 '>design systems</span>, <span className='underline decoration-blue-300 '>research & testing</span>, <span className='underline decoration-blue-300 '>product strategy</span>, <span className='underline decoration-blue-300 '>product management</span>, <span className='underline decoration-blue-300 '>design and engineering</span>. <span className='text-zinc-700'>My goal is to design solutions that bring <span className='bg-teal-200'>delightful experiences to users</span> while meeting <span className='bg-teal-200'>business requirements</span>.</span>
             </h1>
-            <div>
+            {/* <div>
               <Link href={""} className="text-zinc-600 hover:text-blue-600 text-lg flex items-center gap-2 py-8" target="_blank">
                   <div>
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" className="size-5">
@@ -24,7 +24,7 @@ const AboutPage = () => {
                   </div>
                   <div className="text-xl font-light text-zinc-600  hover:text-blue-600 leading-snug tracking-normal">Download a copy of my cv here</div>
                 </Link>
-            </div>
+            </div> */}
           </div>
           
           <div className='py-2'>
