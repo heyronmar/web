@@ -8,7 +8,7 @@ const AboutPage = () => {
   const sortedData = data.sort((a, b) => Number(a.key) - Number(b.key));
 
   return (
-    <div className='container p-0 my-16'>
+    <div className='container xl:p-0 my-16'>
         <div className='flex flex-col'>
           <div className='xl:max-w-[80%] py-8'>
             <h1 className='text-3xl font-extralight text-zinc-600 leading-snug tracking-wide pb-6'>
