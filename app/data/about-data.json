@@ -26,14 +26,6 @@
     {
         "key": 1,
         "title": "",
-        "year": "2016 - 2017",
-        "org": "General Assembly",
-        "link": "",
-        "role": "UX Design"
-    },
-    {
-        "key": 1,
-        "title": "",
         "year": "2006 - 2010",
         "org": "Bulacan State University",
         "link": "",
@@ -143,7 +135,54 @@
         "link": "",
         "role": "Web Design Specialist"
     },
-    
+    {
+        "key": 4,
+        "title": "Certifications",
+        "year": "2024",
+        "org": "EdX",
+        "link": "",
+        "role": "WAI0.1x:Introduction to Web Accessibility"
+    },
+    {
+        "key": 4,
+        "title": "",
+        "year": "2020",
+        "org": "Certiprof",
+        "link": "",
+        "role": "Scrum Foundation Professional Certificate (SFPC)"
+    },
+    {
+        "key": 4,
+        "title": "",
+        "year": "2020",
+        "org": "IxDF",
+        "link": "",
+        "role": "Interaction Design for Usability"
+    },
+    {
+        "key": 4,
+        "title": "",
+        "year": "2019",
+        "org": "IxDF",
+        "link": "",
+        "role": "HCI-Human Computer Interaction "
+    },
+    {
+        "key": 4,
+        "title": "",
+        "year": "2016 - 2017",
+        "org": "General Assembly",
+        "link": "",
+        "role": "UX Design"
+    },
+    {
+        "key": 4,
+        "title": "",
+        "year": "2016 - 2017",
+        "org": "TESDA",
+        "link": "",
+        "role": "NCIII - Visual Graphic Design"
+    },    
     {
         "key": 1,
         "title": "spacer",
@@ -154,6 +193,14 @@
     },
     {
         "key": 2,
+        "title": "spacer",
+        "year": "",
+        "org": "",
+        "link": "",
+        "role": ""
+    },
+    {
+        "key": 3,
         "title": "spacer",
         "year": "",
         "org": "",
